@@ -1,0 +1,21 @@
+.first{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+}
+.second{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: -99px;
+    margin-left: 70px;
+}
+.third{
+    height: 100px;
+    width: 100px;
+    transform: rotate(313deg);
+    margin-top: -65.7px;
+    margin-left: 38px;
+}
